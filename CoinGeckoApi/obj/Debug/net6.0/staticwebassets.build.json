@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wm78sX/jqc5+c2+w0c4G+L/2/HkNg/xeJqbrzTzHH/Y=",
+  "Source": "CoinGeckoApi",
+  "BasePath": "_content/CoinGeckoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
